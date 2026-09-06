@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sol-Luna Orchestrator"
+  short_description: "Sol plans complex work; Luna implements"
+  default_prompt: "Use $orchestrate-sol-luna to implement this coding task with a Sol-planned, Luna-executed workflow."
