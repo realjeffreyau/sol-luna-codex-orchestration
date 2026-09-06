@@ -1,1 +1,1 @@
-# luna-sol-codex-orchestration
+# sol-luna-codex-orchestration
